@@ -17,11 +17,11 @@ C++ tools for grading (remeshing) a mesh before using it for numerical
 calculations. Grading reduces the number of faces in a mesh and thus decreases
 the time of the numerical calculations.
 
-**Hybrid (recommended):** Mesh grading based on the local curvature and distance
-from the ear as described by Palm et al. [1].
+Hybrid (recommended)
+  Mesh grading based on the local curvature and distance from the ear as described by Palm et al. [1].
 
-**Distance Based (not maintained):** Distance based mesh grading as described
-by Ziegelwanger et al. [2].
+Distance Based (not maintained)
+  Distance based mesh grading as described by Ziegelwanger et al. [2].
 
 MeshManipulation
 ================

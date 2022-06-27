@@ -1,1 +1,1 @@
-The functions getMesh2HRTFevalGrid and writeMesh2HRTFevalGrid are part of the Matlab API for Mesh2HRTF: https://github.com/Any2HRTF/Mesh2HRTF
+The functions getMesh2HRTFevalGrid and writeMesh2HRTFevalGrid are part of Mesh2HRTF: https://github.com/Any2HRTF/Mesh2HRTF
